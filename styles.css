@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f7fa;
+    color: black;
+    font-size: 20px;
+}
+
+header {
+    background: lightpink;
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    max-width: 600px;
+    float: right;
+    margin: 0 50px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.kocky-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.radek {
+    margin-bottom: 20px;
+}
+
+.kocka {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.kocka img {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+}
